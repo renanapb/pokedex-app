@@ -2,7 +2,7 @@
 
 ## Architecture
 
-<img src="assets/architecture.png" alt="Diagram" width="800"/>
+<img src="assets/Architecture.png" alt="Diagram" width="800"/>
 
 ## References
 
