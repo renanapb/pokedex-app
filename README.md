@@ -1,16 +1,10 @@
-# pokedex_app
+# Pokédex App
 
-A new Flutter project.
+## Architecture
 
-## Getting Started
+<img src="assets/architecture.png" alt="Diagram" width="800"/>
 
-This project is a starting point for a Flutter application.
+## References
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Figma](https://www.figma.com/file/THLxZSlOoUYMZrjFg0Kl1M/Pok%C3%A9dex?node-id=18241%3A2789)
+- [PokeApi](https://pokeapi.co/)
