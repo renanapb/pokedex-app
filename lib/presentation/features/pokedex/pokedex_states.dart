@@ -1,3 +1,0 @@
-class PokedexState {
-  const PokedexState();
-}
